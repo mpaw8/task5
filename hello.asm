@@ -3,7 +3,7 @@
 
     section .data
 hello:
-    db "Hello world!",10,0
+    db "Hello, world!",10,0
 
     section .text
 _main:
